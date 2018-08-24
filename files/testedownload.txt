@@ -1,0 +1,5 @@
+Código Departamento; Nome Departamento;
+1; Departamento Administrativo;
+2; Departamento Financeiro;
+3; Departamento Recursos Humanos;
+4; Departamento Comercial;
