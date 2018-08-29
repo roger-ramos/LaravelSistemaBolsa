@@ -34,7 +34,7 @@ class Departamento extends Controller
 
             echo "<br>";
             echo "<br>";
-            echo "<h3>Download</h3>";
+            echo "<h3>Downloasdfsfdsdfd</h3>";
             echo "<a href='download?file=testedownload.txt'>Clique aqui para o download!</a>";
             echo "<br>";
         }
